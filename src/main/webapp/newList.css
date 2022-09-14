@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+.navbar {
+	background-color:  #4835d4;
+	font-weight: bold;
+	height: 100px;
+	color: white;
+}
+
+.btn-group button {
+	background-color:  #4835d4;
+	border: 3px solid black;
+	color: white;
+	padding: 10px 24px;
+	cursor: pointer;
+	float: left;
+	font-weight: bold;
+}
+
+
+
+.btn-group button:hover {
+	background-color: white;
+	color:  #4835d4;
+}
+
+
+.gradient-custom-purp {
+
+background: #EDE8F3;
+
+}
+
+.info {
+	border: 3px solid black;
+	border-radius: 2%;
+}
+
+.newBtn {
+	background-color:  #4835d4;
+	width: 300px;
+	height: 75px;
+	margin-left: 400px;
+	border: 5px solid balck;
+	border-radius:2%;
+}
+
+a {
+	color: white;
+	font-size: x-large;
+}
